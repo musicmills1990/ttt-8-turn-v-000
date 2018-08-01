@@ -33,4 +33,5 @@ index = input_to_index(user_input)
   else
     move(board,index)
     display_board(board)
+  end
 end
